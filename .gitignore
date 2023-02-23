@@ -1,3 +1,8 @@
 *.pkl
 *.csv
 *.xlsx
+00_data_dumps/
+00_preprocessing_code/
+model_metrics/
+matrices_allsessions/
+probability_data/
