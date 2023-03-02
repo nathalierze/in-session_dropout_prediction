@@ -11,6 +11,7 @@ online language learning platform orthografietrainer.net. We calculated time-pro
 models that predict dropout after each step (completed sentence) in the assignment using learning process
 data. The multilayer perceptron is outperforming the baseline algorithms with up to 87% accuracy. By extending the binary prediction with dropout probabilities, we were able to design a personalized intervention
 strategy that distinguishes between motivational and subject-specific interventions. 
+A random state is not set, thus, results might differ marginally.
 
 Whole project described in: 
 N. Rzepka, K. Simbeck, H.-G. Müller, and N. Pinkwart
