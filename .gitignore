@@ -6,3 +6,5 @@
 model_metrics/
 matrices_allsessions/
 probability_data/
+01_metadata
+08_create_anonymized_csv.ipynb

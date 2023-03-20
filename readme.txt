@@ -20,11 +20,8 @@ Proceedings of the 14th International Conference on Computer Supported Education
 SciTePress, 2022, ISBN 978-989-758-562-3 
 
 How to use:
-The data files to use this project can be assessed via Zenodo.
-tba
+The data files to run this project can be assessed via Zenodo:
+10.5281/zenodo.7746395
 
 Data to run these files:
 - dropout_prediction_data.pkl
-- /matrices_allsessions
-- /model_metrics
-- /probability_data
